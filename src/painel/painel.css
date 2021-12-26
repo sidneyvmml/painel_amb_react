@@ -1,0 +1,99 @@
+.main{
+    height:100vh;
+    background-color: #ed3237;
+	vertical-align: center;
+}
+
+.painel-header {
+    background-color: #fff;
+    color: #000;
+}
+
+.div-header{
+    float: left;
+    width: 33%;
+    height: 100%;
+    background-color: #fff;
+}
+
+.div-header-hora{
+    float: left;
+    width: 34%;
+    height: 100%;
+    background-color: #fff;
+}
+
+.div-header-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 55px;
+	height: 176px;
+}
+
+.logo{
+    width: 350px;    
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.painel-senha-atual {
+    background-color: #ed3237;
+    color: #FFD700;
+    text-align: center;
+    height: 400px;
+    width: 100%;
+    display: table;
+}
+
+.painel-senha-atual-content{
+    vertical-align:middle;
+    height:100%;
+    display:table-cell;
+}
+
+.painel-senhas-chamadas {
+    background-color: #fff;
+    color: #000;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+	
+}
+.div-teste {
+    background-color: #FFD700;
+	color: #000;
+}
+
+.senha-left {
+    float: left;
+    width: 33%;
+    height: 100%;
+}
+
+.senha-atual-text-paciente {
+    font-size: 120px;
+    font-style: bold;
+	color: #fff;
+}
+
+.senha-atual-text-destino {
+    font-size: 100px;
+	color: #fff;
+}
+
+.senha-chamada-text-paciente {
+    font-size: 50px;
+}
+
+.senha-chamada-text-destino {
+    font-size: 40px;
+    font-style: italic;
+}
+
+.senha-chamada-text {
+    font-size: 50px;
+}
+
+
